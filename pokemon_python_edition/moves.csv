@@ -1,0 +1,9 @@
+Name, Type, Accuracy, Target, Category, Power, Stat Change, Stat Change Level, Status Condition, Status Condition Chance
+Hydro Pump,Water,80,Opponent,Special,110,None,None,None,None
+Withdraw,Water,100,Self,Status,None,Defense,1,None,None
+Aqua Tail,Water,90,Opponent,Physical,90,None,None,None,None
+Tail Whip,Normal,100,Opponent,Status,None,Defense,-1,None,None
+Aerial Ace,Flying,100,Opponent,Physical,60,None,None,None,None
+Agility,Psychic,100,Self,Status,None,Speed,2,None,None
+Swords Dance,Normal,100,Self,Status,None,Attack,2,None,None
+Flamethrower,Fire,100,Opponent,Special,90,None,None,Burn,10
